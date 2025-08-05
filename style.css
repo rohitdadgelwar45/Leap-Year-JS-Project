@@ -9,7 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(152, 183, 183);
+    background-color: rgb(217, 221, 240);
 }
 .box{
     width: 500px;
@@ -20,7 +20,7 @@
     justify-content: center;
     flex-direction: column;
     box-shadow: 4px 4px 8px black;
-    background-color: rgb(117, 152, 161);
+    background-color: rgb(120, 158, 167);
 }
 .box h1{
     font-size: 40px;
